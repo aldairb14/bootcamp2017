@@ -1,0 +1,3 @@
+#segas genesis
+
+The Sega Genesis, known as the Mega Drive in regions outside of North America, is a 16-bit home video game console which was developed and sold by Sega Enterprises, Ltd. The Genesis was Sega's third console and the successor to the Master System. Sega first released the console as the Mega Drive in Japan in ...
