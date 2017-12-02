@@ -10,4 +10,6 @@ a continuacion se listan las consolas populares
 
 4 Nintendo 
 
-5. sega genesis
+5 sega master system
+
+6. sega genesis
